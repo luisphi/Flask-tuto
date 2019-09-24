@@ -1,2 +1,2 @@
 # Flask
-Pruebas del framework
+Estoy realizando pruebas de desarrollo sobre el framework, siguiendo tutoriales
